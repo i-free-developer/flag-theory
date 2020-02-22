@@ -4,4 +4,4 @@
 
 全书从公众号: nataliamok中系统整理而来，欢迎协作，提供建议
 
-> * [SUMMARY](/https://github.com/NataliaMok/flag-theory/blob/master/SUMMARY.md/)
+> * [FLAG THEORY](/https://geoarbitrage.gitbook.io/drafting/)
