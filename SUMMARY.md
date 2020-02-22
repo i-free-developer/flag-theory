@@ -7,6 +7,7 @@
 * [世界正在不断交融，你呢？](untitled.md)
 * [环球生活二年多，改变了我什么？](huan-qiu-sheng-huo-er-nian-duo-gai-bian-le-wo-shen-me.md)
 * [真正懂玩地理套利的人是什么心态？](geoarbitrage-mindset/zhen-zheng-dong-wan-di-li-tao-li-de-ren-shi-shen-me-xin-tai.md)
+* [聪明人都很懂玩的地理套利](geoarbitrage-mindset/cong-ming-ren-du-hen-dong-wan-de-di-li-tao-li.md)
 
 ## 🏦 海外银行账户 <a id="offshore-banking"></a>
 
