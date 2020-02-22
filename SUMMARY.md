@@ -35,3 +35,7 @@
 * [如何利用新加坡进行地理套利？](an-guo-jia-jin-hang-di-li-tao-li/ru-he-li-yong-xin-jia-po-jin-hang-di-li-tao-li.md)
 * [如何利用格鲁吉亚进行地理套利？](an-guo-jia-jin-hang-di-li-tao-li/ru-he-li-yong-ge-lu-ji-ya-jin-hang-di-li-tao-li.md)
 
+## 💰海外房产投资
+
+* [只工作，不上班的真实体验？清迈篇](hai-wai-fang-chan-tou-zi/zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-qing-mai-pian.md)
+
