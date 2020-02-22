@@ -1,2 +1,4 @@
-# flag-theory
-documenting my geoarbitrage story while navigating in the world.
+# 介绍
+
+全书从公众号: nataliamok中整理而来
+
