@@ -30,4 +30,5 @@
 ## 按国家进行地理套利
 
 * [如何利用香港进行地理套利？](an-guo-jia-jin-hang-di-li-tao-li/ru-he-li-yong-xiang-gang-jin-hang-di-li-tao-li.md)
+* [如何利用新加坡进行地理套利？](an-guo-jia-jin-hang-di-li-tao-li/ru-he-li-yong-xin-jia-po-jin-hang-di-li-tao-li.md)
 
