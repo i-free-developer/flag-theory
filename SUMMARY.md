@@ -2,7 +2,7 @@
 
 * [地理套利介绍 🚩](README.md)
 
-## ✈️ 地理套利思维 <a id="geoarbitrage-mindset"></a>
+## 🧠 地理套利思维 <a id="geoarbitrage-mindset"></a>
 
 * [聪明人都很懂玩的地理套利](geoarbitrage-mindset/cong-ming-ren-du-hen-dong-wan-de-di-li-tao-li.md)
 * [真正懂玩地理套利的人是什么心态？](geoarbitrage-mindset/zhen-zheng-dong-wan-di-li-tao-li-de-ren-shi-shen-me-xin-tai.md)
@@ -21,7 +21,7 @@
 ## ✈️ 第二身份规划 <a id="second-passport"></a>
 
 * [这应该是一篇在外面完全看不到的移民科普文](second-passport/zhe-ying-gai-shi-yi-pian-zai-wai-mian-wan-quan-kan-bu-dao-de-yi-min-ke-pu-wen.md)
-* [e-Residency , 成为世界公民的云通行证](second-passport/how-to-become-a-world-citizen-by-becoming-an-estonian-e-e-residency.md)
+* [e-Residency , 成为世界公民的云通行证](second-passport/eresidency-cheng-wei-shi-jie-gong-min-de-yun-tong-hang-zheng.md)
 
 ## 💰海外房产投资 <a id="real-estate-investing"></a>
 
@@ -31,7 +31,7 @@
 
 * [地理套利 \| 如何在全球进行医疗套利？](other-arbitrage-opportunies/di-li-tao-li-ru-he-zai-quan-qiu-jin-hang-yi-liao-tao-li.md)
 
-## 🚩按国家地理套利 <a id="how-to-geo0arbitrage-in-different-countires"></a>
+## 🚩按国家套利 <a id="how-to-geo0arbitrage-in-different-countires"></a>
 
 * [如何利用香港进行地理套利？](how-to-geo0arbitrage-in-different-countires/ru-he-li-yong-xiang-gang-jin-hang-di-li-tao-li.md)
 * [如何利用新加坡进行地理套利？](how-to-geo0arbitrage-in-different-countires/ru-he-li-yong-xin-jia-po-jin-hang-di-li-tao-li.md)
