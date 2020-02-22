@@ -4,8 +4,9 @@
 
 ## ✈️ 地理套利思维 <a id="geoarbitrage-mindset"></a>
 
-* [世界正在不断交融，你呢？](geoarbitrage-mindset/untitled-1.md)
-* [环球生活二年多，改变了我什么？](geoarbitrage-mindset/huan-qiu-sheng-huo-er-nian-duo-gai-bian-le-wo-shen-me.md)
+* [世界正在不断交融，你呢？](untitled.md)
+* [环球生活二年多，改变了我什么？](huan-qiu-sheng-huo-er-nian-duo-gai-bian-le-wo-shen-me.md)
+* [真正懂玩地理套利的人是什么心态？](geoarbitrage-mindset/zhen-zheng-dong-wan-di-li-tao-li-de-ren-shi-shen-me-xin-tai.md)
 
 ## 🏦 海外银行账户 <a id="offshore-banking"></a>
 
