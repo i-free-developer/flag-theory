@@ -31,11 +31,11 @@
 
 * [地理套利 \| 如何在全球进行医疗套利？](other-arbitrage-opportunies/di-li-tao-li-ru-he-zai-quan-qiu-jin-hang-yi-liao-tao-li.md)
 
-## 🚩按国家套利 <a id="how-to-geo0arbitrage-in-different-countires"></a>
+## 🚩按国家套利 <a id="how-to-geoarbitrage-in-different-countires"></a>
 
-* [如何利用香港进行地理套利？](how-to-geo0arbitrage-in-different-countires/ru-he-li-yong-xiang-gang-jin-hang-di-li-tao-li.md)
-* [如何利用新加坡进行地理套利？](how-to-geo0arbitrage-in-different-countires/ru-he-li-yong-xin-jia-po-jin-hang-di-li-tao-li.md)
-* [如何利用格鲁吉亚进行地理套利？](how-to-geo0arbitrage-in-different-countires/ru-he-li-yong-ge-lu-ji-ya-jin-hang-di-li-tao-li.md)
+* [如何利用香港进行地理套利？](how-to-geoarbitrage-in-different-countires/ru-he-li-yong-xiang-gang-jin-hang-di-li-tao-li.md)
+* [如何利用新加坡进行地理套利？](how-to-geoarbitrage-in-different-countires/ru-he-li-yong-xin-jia-po-jin-hang-di-li-tao-li.md)
+* [如何利用格鲁吉亚进行地理套利？](how-to-geoarbitrage-in-different-countires/ru-he-li-yong-ge-lu-ji-ya-jin-hang-di-li-tao-li.md)
 
 ## 🌍 环球生活体验 <a id="life-experience-in-all-around-the-world"></a>
 
