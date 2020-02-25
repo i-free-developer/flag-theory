@@ -6,8 +6,8 @@
 
 * [聪明人都很懂玩的地理套利](geoarbitrage-mindset/cong-ming-ren-du-hen-dong-wan-de-di-li-tao-li.md)
 * [真正懂玩地理套利的人是什么心态？](geoarbitrage-mindset/zhen-zheng-dong-wan-di-li-tao-li-de-ren-shi-shen-me-xin-tai.md)
-* [世界正在不断交融，你呢？](geoarbitrage-mindset/untitled-1.md)
-* [环球生活二年多，改变了我什么？](geoarbitrage-mindset/huan-qiu-sheng-huo-er-nian-duo-gai-bian-le-wo-shen-me.md)
+* [世界正在不断交融，你呢？](geoarbitrage-mindset/shi-jie-zheng-zai-bu-duan-jiao-rong-ni-ni.md)
+* [环球生活二年多，改变了我什么？](geoarbitrage-mindset/huan-qiu-sheng-huo-er-nian-duo-gai-bian-le-wo-shi-mo.md)
 
 ## 🏦 海外银行账户 <a id="offshore-banking"></a>
 
@@ -25,7 +25,7 @@
 
 ## 💰海外房产投资 <a id="real-estate-investing"></a>
 
-* [格鲁吉亚房产投资](ge-lu-ji-ya-fang-chan-tou-zi.md)
+* [格鲁吉亚房产投资](real-estate-investing/ge-lu-ji-ya-fang-chan-tou-zi.md)
 
 ## 🤔 其它花式套利 <a id="other-arbitrage-opportunies"></a>
 
