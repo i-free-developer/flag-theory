@@ -40,4 +40,5 @@
 ## 🌍 环球生活体验 <a id="life-experience-in-all-around-the-world"></a>
 
 * [只工作，不上班的真实体验？清迈篇](life-experience-in-all-around-the-world/zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-qing-mai-pian.md)
+* [只工作，不上班的真实体验？土耳其篇](zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-tu-er-qi-pian.md)
 
