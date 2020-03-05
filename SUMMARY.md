@@ -1,6 +1,6 @@
 # Table of contents
 
-* [地理套利介绍 🚩](README.md)
+* [🚩地理套利介绍](README.md)
 
 ## 🧠 地理套利思维 <a id="geoarbitrage-mindset"></a>
 
@@ -40,7 +40,7 @@
 ## 🌍 环球生活体验 <a id="life-experience-in-all-around-the-world"></a>
 
 * [只工作，不上班的真实体验？清迈篇](life-experience-in-all-around-the-world/zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-qing-mai-pian.md)
-* [只工作，不上班的真实体验？土耳其篇](zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-tu-er-qi-pian.md)
-* [在格鲁吉亚生活的真实体验？](zai-ge-lu-ji-ya-sheng-huo-de-zhen-shi-ti-yan.md)
-* [Digital Nation \| 只工作，不上班的真实体验（巴统）](digital-nation-zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-ba-tong.md)
+* [只工作，不上班的真实体验？土耳其篇](life-experience-in-all-around-the-world/zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-tu-er-qi-pian.md)
+* [在格鲁吉亚生活的真实体验？](life-experience-in-all-around-the-world/zai-ge-lu-ji-ya-sheng-huo-de-zhen-shi-ti-yan.md)
+* [Digital Nation \| 只工作，不上班的真实体验（巴统）](life-experience-in-all-around-the-world/digital-nation-zhi-gong-zuo-bu-shang-ban-de-zhen-shi-ti-yan-ba-tong.md)
 
