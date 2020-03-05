@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🚩地理套利介绍](README.md)
+* [🚩 地理套利介绍](README.md)
 
 ## 🧠 地理套利思维 <a id="geoarbitrage-mindset"></a>
 
