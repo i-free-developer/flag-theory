@@ -8,3 +8,17 @@
 
 > * [FLAG THEORY](https://geoarbitrage.gitbook.io/drafting)
 
+## 什么是地理套利 What and mindset
+  - geoarbitrage-mindset
+
+## 如何进行地理套利 How
+  - how-to-geoarbitrage-in-different-countires
+  - offshore-banking
+  - offshore-company
+  - real-estate-investing
+  - other-arbitrage-opportunies
+  - second-passport
+
+## 实际案例
+  - life-experience-in-all-around-the-world
+
